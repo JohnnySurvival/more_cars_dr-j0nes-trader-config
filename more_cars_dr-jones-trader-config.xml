@@ -1,0 +1,210 @@
+//Vehicle Parts
+
+HatchbackDoors_Driver_Firefighter,			*,	5000	500
+HatchbackDoors_CoDriver_Firefighter,		*,	5000	500
+HatchbackHood_Firefighter,					*,	5000	500
+HatchbackTrunk_Firefighter,					*,	5000	500
+
+HatchbackDoors_Driver_Cab,					*,	5000	500
+HatchbackDoors_CoDriver_Cab,				*,	5000	500
+HatchbackHood_Cab,							*,	5000	500
+HatchbackTrunk_Cab,							*,	5000	500
+
+HatchbackDoors_Driver_PoliceRus,			*,	5000	500
+HatchbackDoors_CoDriver_PoliceRus,			*,	5000	500
+HatchbackHood_PoliceRus,					*,	5000	500
+HatchbackTrunk_PoliceRus,					*,	5000	500
+
+HatchbackDoors_Driver_lvparamedic,			*,	5000	500
+HatchbackDoors_CoDriver_lvparamedic,		*,	5000	500
+HatchbackHood_lvparamedic,					*,	5000	500
+HatchbackTrunk_lvparamedic,					*,	5000	500
+
+HatchbackDoors_Driver_wineblue,				*,	5000	500
+HatchbackDoors_CoDriver_wineblue,			*,	5000	500
+HatchbackHood_wineblue,						*,	5000	500
+HatchbackTrunk_wineblue,					*,	5000	500
+
+HatchbackDoors_Driver_wineblue_rust,		*,	5000	500
+HatchbackDoors_CoDriver_wineblue_rust,		*,	5000	500
+HatchbackHood_wineblue_rust,				*,	5000	500
+HatchbackTrunk_wineblue_rust,				*,	5000	500
+
+HatchbackDoors_CoDriver_chernarusarmy,		*,	5000	500
+HatchbackHood_chernarusarmy,				*,	5000	500
+HatchbackTrunk_chernarusarmy,				*,	5000	500
+
+HatchbackDoors_CoDriver_chernarusarmy_rust,	*,	5000	500
+HatchbackHood_chernarusarmy_rust,			*,	5000	500
+HatchbackTrunk_chernarusarmy_rust,			*,	5000	500
+
+HatchbackDoors_CoDriver_5000ca,				*,	5000	500
+HatchbackHood_5000ca,						*,	5000	500
+HatchbackTrunk_5000ca,						*,	5000	500
+
+HatchbackDoors_CoDriver_5000ca_rust,		*,	5000	500
+HatchbackHood_5000ca_rust,					*,	5000	500
+HatchbackTrunk_5000ca_rust,					*,	5000	500
+
+Hatchback_02_Door_1_1_Cab,					*,	5000	500
+Hatchback_02_Door_2_1_Cab,					*,	5000	500
+Hatchback_02_Door_1_2_Cab,					*,	5000	500
+Hatchback_02_Door_2_2_Cab,					*,	5000	500
+Hatchback_02_Hood_Cab,						*,	5000	500
+Hatchback_02_Trunk_Cab,						*,	5000	500
+
+Hatchback_02_Door_1_1_Cab_rust,				*,	5000	500
+Hatchback_02_Door_2_1_Cab_rust,				*,	5000	500
+Hatchback_02_Door_1_2_Cab_rust,				*,	5000	500
+Hatchback_02_Door_2_2_Cab_rust,				*,	5000	500
+Hatchback_02_Hood_Cab_rust,					*,	5000	500
+Hatchback_02_Trunk_Cab_rust,				*,	5000	500
+
+Hatchback_02_Door_1_1_cat,					*,	5000	500
+Hatchback_02_Door_2_1_cat,					*,	5000	500
+Hatchback_02_Door_1_2_cat,					*,	5000	500
+Hatchback_02_Door_2_2_cat,					*,	5000	500
+Hatchback_02_Hood_cat,						*,	5000	500
+Hatchback_02_Hood_cat2,						*,	5000	500
+Hatchback_02_Trunk_cat,						*,	5000	500
+
+Hatchback_02_Door_1_1_Pizzapresto,			*,	5000	500
+Hatchback_02_Door_2_1_Pizzapresto,			*,	5000	500
+Hatchback_02_Door_1_2_Pizzapresto,			*,	5000	500
+Hatchback_02_Door_2_2_Pizzapresto,			*,	5000	500
+Hatchback_02_Hood_Pizzapresto,				*,	5000	500
+Hatchback_02_Trunk_Pizzapresto,				*,	5000	500
+
+Hatchback_02_Door_1_1_rustbeige,			*,	5000	500
+Hatchback_02_Door_2_1_rustbeige,			*,	5000	500
+Hatchback_02_Door_1_2_rustbeige,			*,	5000	500
+Hatchback_02_Door_2_2_rustbeige,			*,	5000	500
+Hatchback_02_Hood_rustbeige,				*,	5000	500
+Hatchback_02_Trunk_rustbeige,				*,	5000	500
+
+Hatchback_02_Door_1_1_stripes1,				*,	5000	500
+Hatchback_02_Door_2_1_stripes1,				*,	5000	500
+Hatchback_02_Door_1_2_stripes1,				*,	5000	500
+Hatchback_02_Door_2_2_stripes1,				*,	5000	500
+Hatchback_02_Hood_stripes1,					*,	5000	500
+Hatchback_02_Trunk_stripes1,				*,	5000	500
+
+Hatchback_02_Door_1_1_stripes1_rust,		*,	5000	500
+Hatchback_02_Door_2_1_stripes1_rust,		*,	5000	500
+Hatchback_02_Door_1_2_stripes1_rust,		*,	5000	500
+Hatchback_02_Door_2_2_stripes1_rust,		*,	5000	500
+Hatchback_02_Hood_stripes1_rust,			*,	5000	500
+Hatchback_02_Trunk_stripes1_rust,			*,	5000	500
+
+Hatchback_02_Door_1_1_mtconstruction,		*,	5000	500
+Hatchback_02_Door_2_1_mtconstruction,		*,	5000	500
+Hatchback_02_Door_1_2_mtconstruction,		*,	5000	500
+Hatchback_02_Door_2_2_mtconstruction,		*,	5000	500
+Hatchback_02_Hood_mtconstruction,			*,	5000	500
+Hatchback_02_Trunk_mtconstruction,			*,	5000	500
+
+Hatchback_02_Door_1_1_mtconstruction_rust,	*,	5000	500
+Hatchback_02_Door_2_1_mtconstruction_rust,	*,	5000	500
+Hatchback_02_Door_1_2_mtconstruction_rust,	*,	5000	500
+Hatchback_02_Door_2_2_mtconstruction_rust,	*,	5000	500
+Hatchback_02_Hood_mtconstruction_rust,		*,	5000	500
+Hatchback_02_Trunk_mtconstruction_rust,		*,	5000	500
+
+Hatchback_02_Door_1_1_fat,					*,	5000	500
+Hatchback_02_Door_2_1_fat,					*,	5000	500
+Hatchback_02_Door_1_2_fat,					*,	5000	500
+Hatchback_02_Door_2_2_fat,					*,	5000	500
+Hatchback_02_Hood_fat,						*,	5000	500
+Hatchback_02_Trunk_fat,						*,	5000	500
+
+Hatchback_02_Door_1_1_fat_rust,				*,	5000	500
+Hatchback_02_Door_2_1_fat_rust,				*,	5000	500
+Hatchback_02_Door_1_2_fat_rust,				*,	5000	500
+Hatchback_02_Door_2_2_fat_rust,				*,	5000	500
+Hatchback_02_Hood_fat_rust,					*,	5000	500
+Hatchback_02_Trunk_fat_rust,				*,	5000	500
+
+Hatchback_02_Door_1_1_purplesmoke,			*,	5000	500
+Hatchback_02_Door_2_1_purplesmoke,			*,	5000	500
+Hatchback_02_Door_1_2_purplesmoke,			*,	5000	500
+Hatchback_02_Door_2_2_purplesmoke,			*,	5000	500
+Hatchback_02_Hood_purplesmoke,				*,	5000	500
+Hatchback_02_Trunk_purplesmoke,				*,	5000	500
+
+Hatchback_02_Door_1_1_icegem,				*,	5000	500
+Hatchback_02_Door_2_1_icegem,				*,	5000	500
+Hatchback_02_Door_1_2_icegem,				*,	5000	500
+Hatchback_02_Door_2_2_icegem,				*,	5000	500
+Hatchback_02_Hood_icegem,					*,	5000	500
+Hatchback_02_Trunk_icegem,					*,	5000	500
+
+Hatchback_02_Door_1_1_purplebomb,			*,	5000	500
+Hatchback_02_Door_2_1_purplebomb,			*,	5000	500
+Hatchback_02_Door_1_2_purplebomb,			*,	5000	500
+Hatchback_02_Door_2_2_purplebomb,			*,	5000	500
+Hatchback_02_Hood_purplebomb,				*,	5000	500
+Hatchback_02_Trunk_purplebomb,				*,	5000	500
+
+Hatchback_02_Hood_vw,						*,	5000	500
+Hatchback_02_Hood_cupcake,					*,	5000	500
+Hatchback_02_Hood_crack,					*,	5000	500
+Hatchback_02_Hood_kindchoc,					*,	5000	500
+
+Sedan_02_Door_1_1_Medic01,					*,	5000	500
+Sedan_02_Door_2_1_Medic01,					*,	5000	500
+Sedan_02_Door_1_2_Medic01,					*,	5000	500
+Sedan_02_Door_2_2_Medic01,					*,	5000	500
+Sedan_02_Hood_Medic01,						*,	5000	500
+Sedan_02_Trunk_Medic01,						*,	5000	500
+
+Sedan_02_Door_1_1_sk_policja,				*,	5000	500
+Sedan_02_Door_2_1_sk_policja,				*,	5000	500
+Sedan_02_Door_1_2_sk_policja,				*,	5000	500
+Sedan_02_Door_2_2_sk_policja,				*,	5000	500
+Sedan_02_Hood_sk_policja,					*,	5000	500
+Sedan_02_Trunk_sk_policja,					*,	5000	500
+
+Sedan_02_Door_1_1_peacebird,				*,	5000	500
+Sedan_02_Door_2_1_peacebird,				*,	5000	500
+Sedan_02_Door_1_2_peacebird,				*,	5000	500
+Sedan_02_Door_2_2_peacebird,				*,	5000	500
+Sedan_02_Hood_peacebird,					*,	5000	500
+Sedan_02_Trunk_peacebird,					*,	5000	500
+
+Sedan_02_Hood_chdkz,							*,	5000	500
+Sedan_02_Door_1_2_chdkz*Sovietpropaganda*,		*,	5000	500
+Sedan_02_Hood_graffiti1,						*,	5000	500
+Sedan_02_Hood_graffiti2,						*,	5000	500
+Sedan_02_Door_1_1_graffiti1*Sovietpropaganda2*,	*,	5000	500
+Sedan_02_Trunk_graffiti1,						*,	5000	500
+Sedan_02_Trunk_graffiti2,						*,	5000	500
+
+//Vehicles
+OffroadHatchback_Firefighter,					*,	5000	500
+OffroadHatchback_Cab,							*,	5000	500
+OffroadHatchback_PoliceRus,						*,	5000	500
+OffroadHatchback_lvparamedic,					*,	5000	500
+OffroadHatchback_wineblue,						*,	5000	500
+OffroadHatchback_wineblue_rust,					*,	5000	500
+OffroadHatchback_chernarusarmy,					*,	5000	500
+OffroadHatchback_chernarusarmy_rust,			*,	5000	500
+OffroadHatchback_5000ca,						*,	5000	500
+OffroadHatchback_5000ca_rust,					*,	5000	500
+
+Hatchback_02_Cab,						*,	5000	500
+Hatchback_02_cat,						*,	5000	500
+Hatchback_02_Pizzapresto,				*,	5000	500
+Hatchback_02_rustbeige,					*,	5000	500
+Hatchback_02_stripes1,					*,	5000	500
+Hatchback_02_stripes1_rust,				*,	5000	500
+Hatchback_02_mtconstruction,			*,	5000	500
+Hatchback_02_mtconstruction _rust,		*,	5000	500
+Hatchback_02_fat,						*,	5000	500
+Hatchback_02_fat_rust,					*,	5000	500
+Hatchback_02_purplesmoke,				*,	5000	500
+Hatchback_02_icegem,					*,	5000	500
+Hatchback_02_purplebomb,				*,	5000	500
+
+Sedan_02_Medic01,						*,	5000	500
+Sedan_02_sk_policja,					*,	5000	500
+Sedan_02_peacebird,						*,	5000	500
