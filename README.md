@@ -1,5 +1,5 @@
 Version 1.0 - more_cars_dr-jones-trader-config.xml
-created by: Johnny Survival
+Created by: Johnny Survival
 
 Hier findet ihr die fertige config, um die Anbauteile sowie die Fahrzeuge der MoreCars-Mod von DONALD in den Dr_J0nes Trader einzufügen.
 Here you can find the finished config to add the add-on parts and vehicles from DONALD's MoreCars mod to the Dr_J0nes Trader.
